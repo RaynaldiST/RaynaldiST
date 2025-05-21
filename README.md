@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaynaldiST
 - 👀 I’m interested in Mobile app Development
-- 🌱 I’m currently learning Java, Flutter, Swift, PHP, Laravel
+- 🌱 I’m currently interested in Dart, Java, Swift, PHP, Node.js, Laravel, Flutter
 - 📫 How to reach me IG @raymuchammad
 
 <!---
